@@ -6,8 +6,7 @@ metadata:
   finalizers:
   - resources-finalizer.argocd.argoproj.io
   labels:
-    app: helm-guestbook
-    environment: sandbox
+    app: sandbox
 spec:
   destination:
     namespace: helm-guestbook
