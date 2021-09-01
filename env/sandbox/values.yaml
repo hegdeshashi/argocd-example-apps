@@ -1,6 +1,6 @@
 spec:
   destination:
-    server: https://kubernetes.default.svc
+    server: https://59D3ACDF1BEAB1B760777A0C61B03B2B.yl4.ap-south-1.eks.amazonaws.com
   source:
     repoURL: https://github.com/hegdeshashi/argocd-example-apps/env/sandbox
     targetRevision: HEAD
